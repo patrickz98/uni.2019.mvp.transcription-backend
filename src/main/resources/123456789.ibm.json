@@ -1,0 +1,4143 @@
+{
+    "speakerLabels": [
+        {
+            "speaker": 1,
+            "confidence": 0.42,
+            "XFinal": false,
+            "from": 0.25,
+            "to": 0.73
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.42,
+            "XFinal": false,
+            "from": 0.73,
+            "to": 0.85
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.42,
+            "XFinal": false,
+            "from": 0.85,
+            "to": 1.4
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.42,
+            "XFinal": false,
+            "from": 1.4,
+            "to": 1.59
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.42,
+            "XFinal": false,
+            "from": 1.59,
+            "to": 2.23
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 3.04,
+            "to": 3.51
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 3.51,
+            "to": 3.95
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 4.15,
+            "to": 4.51
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 4.51,
+            "to": 4.65
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 4.65,
+            "to": 4.76
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 4.76,
+            "to": 4.87
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 4.87,
+            "to": 5.66
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 6.86,
+            "to": 7.07
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 7.07,
+            "to": 7.35
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 7.35,
+            "to": 7.98
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.34,
+            "XFinal": false,
+            "from": 8.14,
+            "to": 8.38
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.34,
+            "XFinal": false,
+            "from": 8.38,
+            "to": 8.72
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.34,
+            "XFinal": false,
+            "from": 8.72,
+            "to": 9.18
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 9.38,
+            "to": 9.58
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 9.58,
+            "to": 9.86
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 9.86,
+            "to": 9.98
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 9.98,
+            "to": 10.09
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 10.09,
+            "to": 10.43
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 10.75,
+            "to": 11.02
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 11.02,
+            "to": 11.45
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 11.92,
+            "to": 12.14
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 12.14,
+            "to": 12.28
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 12.28,
+            "to": 12.89
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 14.96,
+            "to": 15.22
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 15.22,
+            "to": 15.57
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 15.96,
+            "to": 16.22
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 16.22,
+            "to": 16.8
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 16.8,
+            "to": 17.1
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 17.1,
+            "to": 17.7
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 17.7,
+            "to": 18.42
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 18.46,
+            "to": 18.64
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 18.64,
+            "to": 18.83
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 18.83,
+            "to": 19.27
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.38,
+            "XFinal": false,
+            "from": 19.3,
+            "to": 19.87
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.38,
+            "XFinal": false,
+            "from": 19.87,
+            "to": 20
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.38,
+            "XFinal": false,
+            "from": 20,
+            "to": 20.09
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.38,
+            "XFinal": false,
+            "from": 20.09,
+            "to": 20.69
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.38,
+            "XFinal": false,
+            "from": 20.69,
+            "to": 21.13
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 21.39,
+            "to": 21.52
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 21.52,
+            "to": 21.65
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 21.65,
+            "to": 21.73
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 21.73,
+            "to": 21.79
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 21.79,
+            "to": 22.03
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.03,
+            "to": 22.12
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.12,
+            "to": 22.18
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.18,
+            "to": 22.27
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.27,
+            "to": 22.39
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.39,
+            "to": 22.52
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.52,
+            "to": 22.72
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.72,
+            "to": 22.8
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 22.8,
+            "to": 23.05
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 23.05,
+            "to": 23.2
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 23.2,
+            "to": 23.29
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 23.29,
+            "to": 23.48
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 23.48,
+            "to": 23.61
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 23.61,
+            "to": 23.98
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 23.98,
+            "to": 24.51
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 24.51,
+            "to": 24.78
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 24.78,
+            "to": 25.13
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 25.13,
+            "to": 25.22
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 25.22,
+            "to": 25.75
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 25.78,
+            "to": 26.25
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 26.3,
+            "to": 27
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 27.46,
+            "to": 27.99
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 27.99,
+            "to": 28.07
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 28.07,
+            "to": 28.23
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 28.23,
+            "to": 28.39
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 28.39,
+            "to": 28.85
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 28.85,
+            "to": 29.06
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 29.06,
+            "to": 29.35
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 29.35,
+            "to": 29.47
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 29.47,
+            "to": 29.87
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 29.87,
+            "to": 29.96
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 29.96,
+            "to": 30.08
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 30.08,
+            "to": 30.63
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 31,
+            "to": 31.3
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 31.78,
+            "to": 32.06
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 32.06,
+            "to": 32.3
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 32.3,
+            "to": 32.49
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 32.49,
+            "to": 32.58
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 32.58,
+            "to": 33.23
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 33.31,
+            "to": 33.93
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 33.93,
+            "to": 34
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 34,
+            "to": 34.28
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 34.28,
+            "to": 34.48
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.36,
+            "XFinal": false,
+            "from": 34.48,
+            "to": 34.82
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 35.12,
+            "to": 35.27
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 35.27,
+            "to": 35.58
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 35.58,
+            "to": 35.82
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 35.82,
+            "to": 36.03
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 36.03,
+            "to": 36.25
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 36.25,
+            "to": 36.67
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 36.98,
+            "to": 37.27
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 37.27,
+            "to": 37.63
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 38.54,
+            "to": 38.61
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 38.61,
+            "to": 39.03
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 39.03,
+            "to": 39.59
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 39.59,
+            "to": 40.05
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 40.05,
+            "to": 40.35
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 40.35,
+            "to": 40.82
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 41.5,
+            "to": 42.09
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 42.09,
+            "to": 42.91
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 43.38,
+            "to": 43.68
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 43.68,
+            "to": 43.8
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 43.8,
+            "to": 44.23
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 44.23,
+            "to": 44.3
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 44.3,
+            "to": 44.72
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 44.72,
+            "to": 45.39
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.35,
+            "XFinal": false,
+            "from": 45.42,
+            "to": 45.99
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.34,
+            "XFinal": false,
+            "from": 46.02,
+            "to": 46.18
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.34,
+            "XFinal": false,
+            "from": 46.18,
+            "to": 46.72
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 46.93,
+            "to": 47.13
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 47.13,
+            "to": 47.71
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.38,
+            "XFinal": false,
+            "from": 48.27,
+            "to": 48.38
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.38,
+            "XFinal": false,
+            "from": 48.38,
+            "to": 49.09
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 49.48,
+            "to": 49.62
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 49.62,
+            "to": 49.69
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 49.69,
+            "to": 50.02
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 50.02,
+            "to": 50.47
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 50.47,
+            "to": 50.65
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 50.65,
+            "to": 51.17
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 51.17,
+            "to": 51.33
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.41,
+            "XFinal": false,
+            "from": 51.33,
+            "to": 51.82
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.32,
+            "XFinal": false,
+            "from": 52.63,
+            "to": 52.88
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.32,
+            "XFinal": false,
+            "from": 52.88,
+            "to": 53.23
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.33,
+            "XFinal": false,
+            "from": 53.3,
+            "to": 53.84
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 54.07,
+            "to": 54.4
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 54.4,
+            "to": 55.14
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 55.17,
+            "to": 55.48
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 55.48,
+            "to": 55.55
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 55.55,
+            "to": 55.72
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 55.72,
+            "to": 56.13
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 56.13,
+            "to": 56.28
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 56.28,
+            "to": 56.43
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 56.43,
+            "to": 56.76
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.37,
+            "XFinal": false,
+            "from": 56.76,
+            "to": 56.96
+        },
+        {
+            "speaker": 1,
+            "confidence": 0.35,
+            "XFinal": false,
+            "from": 57.07,
+            "to": 57.76
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 60.48,
+            "to": 60.8
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 60.8,
+            "to": 61.28
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 61.28,
+            "to": 61.38
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 61.38,
+            "to": 61.94
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 61.94,
+            "to": 62.31
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 62.31,
+            "to": 62.65
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 62.65,
+            "to": 62.84
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 62.84,
+            "to": 63.01
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 63.01,
+            "to": 63.41
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 63.41,
+            "to": 63.6
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 63.6,
+            "to": 64.01
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 64.01,
+            "to": 64.11
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 64.11,
+            "to": 64.31
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 64.31,
+            "to": 64.55
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 64.55,
+            "to": 64.64
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 64.64,
+            "to": 64.99
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 64.99,
+            "to": 65.15
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 65.15,
+            "to": 65.3
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.45,
+            "XFinal": false,
+            "from": 65.3,
+            "to": 65.8
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 66.41,
+            "to": 66.7
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 66.7,
+            "to": 67.27
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.4,
+            "XFinal": false,
+            "from": 67.27,
+            "to": 67.47
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 67.5,
+            "to": 67.89
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 67.89,
+            "to": 68.05
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 68.05,
+            "to": 68.12
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 68.12,
+            "to": 68.35
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 68.35,
+            "to": 68.68
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 68.68,
+            "to": 68.92
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 68.92,
+            "to": 69.02
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 69.02,
+            "to": 69.42
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 69.7,
+            "to": 70.09
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 70.09,
+            "to": 70.16
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 70.16,
+            "to": 70.46
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 70.46,
+            "to": 70.86
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 70.86,
+            "to": 70.95
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 70.95,
+            "to": 71.83
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 71.83,
+            "to": 71.99
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 71.99,
+            "to": 72.37
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 72.37,
+            "to": 72.47
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 72.47,
+            "to": 72.57
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 72.57,
+            "to": 72.99
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.46,
+            "XFinal": false,
+            "from": 72.99,
+            "to": 73.82
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 74.5,
+            "to": 74.67
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 74.67,
+            "to": 74.75
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 74.75,
+            "to": 75.09
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 75.09,
+            "to": 75.2
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 75.2,
+            "to": 75.52
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 75.52,
+            "to": 75.67
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 75.67,
+            "to": 76.19
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 76.19,
+            "to": 76.49
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 76.49,
+            "to": 77.17
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 77.17,
+            "to": 77.47
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 77.47,
+            "to": 77.84
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 77.84,
+            "to": 77.93
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 77.93,
+            "to": 78.34
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 78.34,
+            "to": 78.66
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 78.66,
+            "to": 79.04
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.47,
+            "XFinal": false,
+            "from": 79.04,
+            "to": 79.55
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 79.77,
+            "to": 79.99
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.44,
+            "XFinal": false,
+            "from": 79.99,
+            "to": 80.6
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 80.74,
+            "to": 81.05
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.43,
+            "XFinal": false,
+            "from": 81.05,
+            "to": 81.69
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 81.72,
+            "to": 81.86
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 81.86,
+            "to": 82.34
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.39,
+            "XFinal": false,
+            "from": 82.34,
+            "to": 82.68
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 83.49,
+            "to": 83.72
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 83.72,
+            "to": 84.2
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 84.2,
+            "to": 84.31
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 84.31,
+            "to": 84.74
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 84.74,
+            "to": 85.05
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 85.05,
+            "to": 85.22
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 85.22,
+            "to": 85.33
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.6,
+            "XFinal": false,
+            "from": 85.33,
+            "to": 85.79
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 86.35,
+            "to": 86.45
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 86.45,
+            "to": 86.6
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 86.6,
+            "to": 86.66
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 86.66,
+            "to": 86.81
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 86.81,
+            "to": 86.93
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 86.93,
+            "to": 87.01
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 87.01,
+            "to": 87.44
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 87.44,
+            "to": 87.66
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 87.66,
+            "to": 87.84
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 87.84,
+            "to": 88
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 88,
+            "to": 88.19
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 88.19,
+            "to": 88.35
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.58,
+            "XFinal": false,
+            "from": 88.35,
+            "to": 88.72
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 89.03,
+            "to": 89.26
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 89.26,
+            "to": 89.64
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 89.64,
+            "to": 89.83
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 89.83,
+            "to": 90.1
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 90.1,
+            "to": 90.34
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 90.34,
+            "to": 90.44
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 90.44,
+            "to": 90.78
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 90.78,
+            "to": 90.9
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 90.9,
+            "to": 91.07
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 91.07,
+            "to": 91.34
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 91.34,
+            "to": 91.43
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 91.43,
+            "to": 91.58
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 91.58,
+            "to": 91.68
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 91.68,
+            "to": 92.04
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 92.04,
+            "to": 92.7
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 92.7,
+            "to": 93
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 93,
+            "to": 93.28
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.57,
+            "XFinal": false,
+            "from": 93.28,
+            "to": 93.85
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.53,
+            "XFinal": false,
+            "from": 93.89,
+            "to": 94.46
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.42,
+            "XFinal": false,
+            "from": 94.49,
+            "to": 95.24
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.59,
+            "XFinal": false,
+            "from": 95.57,
+            "to": 95.92
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.59,
+            "XFinal": false,
+            "from": 95.92,
+            "to": 96.03
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.59,
+            "XFinal": false,
+            "from": 96.03,
+            "to": 96.09
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.59,
+            "XFinal": false,
+            "from": 96.09,
+            "to": 96.19
+        },
+        {
+            "speaker": 2,
+            "confidence": 0.59,
+            "XFinal": true,
+            "from": 96.19,
+            "to": 96.61
+        }
+    ],
+    "resultIndex": 0,
+    "results": [
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "presented by CBS all access ",
+                "timestamps": [
+                    {
+                        "startTime": 0.25,
+                        "endTime": 0.73,
+                        "word": "presented"
+                    },
+                    {
+                        "startTime": 0.73,
+                        "endTime": 0.85,
+                        "word": "by"
+                    },
+                    {
+                        "startTime": 0.85,
+                        "endTime": 1.4,
+                        "word": "CBS"
+                    },
+                    {
+                        "startTime": 1.4,
+                        "endTime": 1.59,
+                        "word": "all"
+                    },
+                    {
+                        "startTime": 1.59,
+                        "endTime": 2.23,
+                        "word": "access"
+                    }
+                ],
+                "confidence": 0.95,
+                "wordConfidence": [
+                    {
+                        "confidence": 1,
+                        "word": "presented"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "by"
+                    },
+                    {
+                        "confidence": 0.82,
+                        "word": "CBS"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "all"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "access"
+                    }
+                ]
+            }]
+        },
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "subscribe now wherever you get your podcasts ",
+                "timestamps": [
+                    {
+                        "startTime": 3.04,
+                        "endTime": 3.51,
+                        "word": "subscribe"
+                    },
+                    {
+                        "startTime": 3.51,
+                        "endTime": 3.95,
+                        "word": "now"
+                    },
+                    {
+                        "startTime": 4.15,
+                        "endTime": 4.51,
+                        "word": "wherever"
+                    },
+                    {
+                        "startTime": 4.51,
+                        "endTime": 4.65,
+                        "word": "you"
+                    },
+                    {
+                        "startTime": 4.65,
+                        "endTime": 4.76,
+                        "word": "get"
+                    },
+                    {
+                        "startTime": 4.76,
+                        "endTime": 4.87,
+                        "word": "your"
+                    },
+                    {
+                        "startTime": 4.87,
+                        "endTime": 5.66,
+                        "word": "podcasts"
+                    }
+                ],
+                "confidence": 0.81,
+                "wordConfidence": [
+                    {
+                        "confidence": 1,
+                        "word": "subscribe"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "now"
+                    },
+                    {
+                        "confidence": 0.4,
+                        "word": "wherever"
+                    },
+                    {
+                        "confidence": 0.97,
+                        "word": "you"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "get"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "your"
+                    },
+                    {
+                        "confidence": 0.72,
+                        "word": "podcasts"
+                    }
+                ]
+            }]
+        },
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "I'm Michelle Goldberg I'm rust outfit I'm David Lee in heart and this is the argument ",
+                "timestamps": [
+                    {
+                        "startTime": 6.86,
+                        "endTime": 7.07,
+                        "word": "I'm"
+                    },
+                    {
+                        "startTime": 7.07,
+                        "endTime": 7.35,
+                        "word": "Michelle"
+                    },
+                    {
+                        "startTime": 7.35,
+                        "endTime": 7.98,
+                        "word": "Goldberg"
+                    },
+                    {
+                        "startTime": 8.14,
+                        "endTime": 8.38,
+                        "word": "I'm"
+                    },
+                    {
+                        "startTime": 8.38,
+                        "endTime": 8.72,
+                        "word": "rust"
+                    },
+                    {
+                        "startTime": 8.72,
+                        "endTime": 9.18,
+                        "word": "outfit"
+                    },
+                    {
+                        "startTime": 9.38,
+                        "endTime": 9.58,
+                        "word": "I'm"
+                    },
+                    {
+                        "startTime": 9.58,
+                        "endTime": 9.86,
+                        "word": "David"
+                    },
+                    {
+                        "startTime": 9.86,
+                        "endTime": 9.98,
+                        "word": "Lee"
+                    },
+                    {
+                        "startTime": 9.98,
+                        "endTime": 10.09,
+                        "word": "in"
+                    },
+                    {
+                        "startTime": 10.09,
+                        "endTime": 10.43,
+                        "word": "heart"
+                    },
+                    {
+                        "startTime": 10.75,
+                        "endTime": 11.02,
+                        "word": "and"
+                    },
+                    {
+                        "startTime": 11.02,
+                        "endTime": 11.45,
+                        "word": "this"
+                    },
+                    {
+                        "startTime": 11.92,
+                        "endTime": 12.14,
+                        "word": "is"
+                    },
+                    {
+                        "startTime": 12.14,
+                        "endTime": 12.28,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 12.28,
+                        "endTime": 12.89,
+                        "word": "argument"
+                    }
+                ],
+                "confidence": 0.77,
+                "wordConfidence": [
+                    {
+                        "confidence": 0.6,
+                        "word": "I'm"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Michelle"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "Goldberg"
+                    },
+                    {
+                        "confidence": 0.74,
+                        "word": "I'm"
+                    },
+                    {
+                        "confidence": 0.1,
+                        "word": "rust"
+                    },
+                    {
+                        "confidence": 0.08,
+                        "word": "outfit"
+                    },
+                    {
+                        "confidence": 0.76,
+                        "word": "I'm"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "David"
+                    },
+                    {
+                        "confidence": 0.7,
+                        "word": "Lee"
+                    },
+                    {
+                        "confidence": 0.15,
+                        "word": "in"
+                    },
+                    {
+                        "confidence": 0.9,
+                        "word": "heart"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "and"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "this"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "is"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "argument"
+                    }
+                ]
+            }]
+        },
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "this week two different high profile Democrats may be late entries to the democratic race how much of a level do you have to be and to think that the way to Jews turnout among people of color is to nominate the guy who presided over stop and frisk in New York then we talk about the resistance inside the trump White House you can see that there are really good ",
+                "timestamps": [
+                    {
+                        "startTime": 14.96,
+                        "endTime": 15.22,
+                        "word": "this"
+                    },
+                    {
+                        "startTime": 15.22,
+                        "endTime": 15.57,
+                        "word": "week"
+                    },
+                    {
+                        "startTime": 15.96,
+                        "endTime": 16.22,
+                        "word": "two"
+                    },
+                    {
+                        "startTime": 16.22,
+                        "endTime": 16.8,
+                        "word": "different"
+                    },
+                    {
+                        "startTime": 16.8,
+                        "endTime": 17.1,
+                        "word": "high"
+                    },
+                    {
+                        "startTime": 17.1,
+                        "endTime": 17.7,
+                        "word": "profile"
+                    },
+                    {
+                        "startTime": 17.7,
+                        "endTime": 18.42,
+                        "word": "Democrats"
+                    },
+                    {
+                        "startTime": 18.46,
+                        "endTime": 18.64,
+                        "word": "may"
+                    },
+                    {
+                        "startTime": 18.64,
+                        "endTime": 18.83,
+                        "word": "be"
+                    },
+                    {
+                        "startTime": 18.83,
+                        "endTime": 19.27,
+                        "word": "late"
+                    },
+                    {
+                        "startTime": 19.3,
+                        "endTime": 19.87,
+                        "word": "entries"
+                    },
+                    {
+                        "startTime": 19.87,
+                        "endTime": 20,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 20,
+                        "endTime": 20.09,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 20.09,
+                        "endTime": 20.69,
+                        "word": "democratic"
+                    },
+                    {
+                        "startTime": 20.69,
+                        "endTime": 21.13,
+                        "word": "race"
+                    },
+                    {
+                        "startTime": 21.39,
+                        "endTime": 21.52,
+                        "word": "how"
+                    },
+                    {
+                        "startTime": 21.52,
+                        "endTime": 21.65,
+                        "word": "much"
+                    },
+                    {
+                        "startTime": 21.65,
+                        "endTime": 21.73,
+                        "word": "of"
+                    },
+                    {
+                        "startTime": 21.73,
+                        "endTime": 21.79,
+                        "word": "a"
+                    },
+                    {
+                        "startTime": 21.79,
+                        "endTime": 22.03,
+                        "word": "level"
+                    },
+                    {
+                        "startTime": 22.03,
+                        "endTime": 22.12,
+                        "word": "do"
+                    },
+                    {
+                        "startTime": 22.12,
+                        "endTime": 22.18,
+                        "word": "you"
+                    },
+                    {
+                        "startTime": 22.18,
+                        "endTime": 22.27,
+                        "word": "have"
+                    },
+                    {
+                        "startTime": 22.27,
+                        "endTime": 22.39,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 22.39,
+                        "endTime": 22.52,
+                        "word": "be"
+                    },
+                    {
+                        "startTime": 22.52,
+                        "endTime": 22.72,
+                        "word": "and"
+                    },
+                    {
+                        "startTime": 22.72,
+                        "endTime": 22.8,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 22.8,
+                        "endTime": 23.05,
+                        "word": "think"
+                    },
+                    {
+                        "startTime": 23.05,
+                        "endTime": 23.2,
+                        "word": "that"
+                    },
+                    {
+                        "startTime": 23.2,
+                        "endTime": 23.29,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 23.29,
+                        "endTime": 23.48,
+                        "word": "way"
+                    },
+                    {
+                        "startTime": 23.48,
+                        "endTime": 23.61,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 23.61,
+                        "endTime": 23.98,
+                        "word": "Jews"
+                    },
+                    {
+                        "startTime": 23.98,
+                        "endTime": 24.51,
+                        "word": "turnout"
+                    },
+                    {
+                        "startTime": 24.51,
+                        "endTime": 24.78,
+                        "word": "among"
+                    },
+                    {
+                        "startTime": 24.78,
+                        "endTime": 25.13,
+                        "word": "people"
+                    },
+                    {
+                        "startTime": 25.13,
+                        "endTime": 25.22,
+                        "word": "of"
+                    },
+                    {
+                        "startTime": 25.22,
+                        "endTime": 25.75,
+                        "word": "color"
+                    },
+                    {
+                        "startTime": 25.78,
+                        "endTime": 26.25,
+                        "word": "is"
+                    },
+                    {
+                        "startTime": 26.3,
+                        "endTime": 27,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 27.46,
+                        "endTime": 27.99,
+                        "word": "nominate"
+                    },
+                    {
+                        "startTime": 27.99,
+                        "endTime": 28.07,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 28.07,
+                        "endTime": 28.23,
+                        "word": "guy"
+                    },
+                    {
+                        "startTime": 28.23,
+                        "endTime": 28.39,
+                        "word": "who"
+                    },
+                    {
+                        "startTime": 28.39,
+                        "endTime": 28.85,
+                        "word": "presided"
+                    },
+                    {
+                        "startTime": 28.85,
+                        "endTime": 29.06,
+                        "word": "over"
+                    },
+                    {
+                        "startTime": 29.06,
+                        "endTime": 29.35,
+                        "word": "stop"
+                    },
+                    {
+                        "startTime": 29.35,
+                        "endTime": 29.47,
+                        "word": "and"
+                    },
+                    {
+                        "startTime": 29.47,
+                        "endTime": 29.87,
+                        "word": "frisk"
+                    },
+                    {
+                        "startTime": 29.87,
+                        "endTime": 29.96,
+                        "word": "in"
+                    },
+                    {
+                        "startTime": 29.96,
+                        "endTime": 30.08,
+                        "word": "New"
+                    },
+                    {
+                        "startTime": 30.08,
+                        "endTime": 30.63,
+                        "word": "York"
+                    },
+                    {
+                        "startTime": 31,
+                        "endTime": 31.3,
+                        "word": "then"
+                    },
+                    {
+                        "startTime": 31.78,
+                        "endTime": 32.06,
+                        "word": "we"
+                    },
+                    {
+                        "startTime": 32.06,
+                        "endTime": 32.3,
+                        "word": "talk"
+                    },
+                    {
+                        "startTime": 32.3,
+                        "endTime": 32.49,
+                        "word": "about"
+                    },
+                    {
+                        "startTime": 32.49,
+                        "endTime": 32.58,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 32.58,
+                        "endTime": 33.23,
+                        "word": "resistance"
+                    },
+                    {
+                        "startTime": 33.31,
+                        "endTime": 33.93,
+                        "word": "inside"
+                    },
+                    {
+                        "startTime": 33.93,
+                        "endTime": 34,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 34,
+                        "endTime": 34.28,
+                        "word": "trump"
+                    },
+                    {
+                        "startTime": 34.28,
+                        "endTime": 34.48,
+                        "word": "White"
+                    },
+                    {
+                        "startTime": 34.48,
+                        "endTime": 34.82,
+                        "word": "House"
+                    },
+                    {
+                        "startTime": 35.12,
+                        "endTime": 35.27,
+                        "word": "you"
+                    },
+                    {
+                        "startTime": 35.27,
+                        "endTime": 35.58,
+                        "word": "can"
+                    },
+                    {
+                        "startTime": 35.58,
+                        "endTime": 35.82,
+                        "word": "see"
+                    },
+                    {
+                        "startTime": 35.82,
+                        "endTime": 36.03,
+                        "word": "that"
+                    },
+                    {
+                        "startTime": 36.03,
+                        "endTime": 36.25,
+                        "word": "there"
+                    },
+                    {
+                        "startTime": 36.25,
+                        "endTime": 36.67,
+                        "word": "are"
+                    },
+                    {
+                        "startTime": 36.98,
+                        "endTime": 37.27,
+                        "word": "really"
+                    },
+                    {
+                        "startTime": 37.27,
+                        "endTime": 37.63,
+                        "word": "good"
+                    }
+                ],
+                "confidence": 0.89,
+                "wordConfidence": [
+                    {
+                        "confidence": 1,
+                        "word": "this"
+                    },
+                    {
+                        "confidence": 0.88,
+                        "word": "week"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "two"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "different"
+                    },
+                    {
+                        "confidence": 0.97,
+                        "word": "high"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "profile"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "Democrats"
+                    },
+                    {
+                        "confidence": 0.39,
+                        "word": "may"
+                    },
+                    {
+                        "confidence": 0.58,
+                        "word": "be"
+                    },
+                    {
+                        "confidence": 0.52,
+                        "word": "late"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "entries"
+                    },
+                    {
+                        "confidence": 0.91,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "democratic"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "race"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "how"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "much"
+                    },
+                    {
+                        "confidence": 0.92,
+                        "word": "of"
+                    },
+                    {
+                        "confidence": 0.73,
+                        "word": "a"
+                    },
+                    {
+                        "confidence": 0.38,
+                        "word": "level"
+                    },
+                    {
+                        "confidence": 0.64,
+                        "word": "do"
+                    },
+                    {
+                        "confidence": 0.71,
+                        "word": "you"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "have"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "be"
+                    },
+                    {
+                        "confidence": 0.18,
+                        "word": "and"
+                    },
+                    {
+                        "confidence": 0.49,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 0.96,
+                        "word": "think"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "that"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.68,
+                        "word": "way"
+                    },
+                    {
+                        "confidence": 0.67,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 0.47,
+                        "word": "Jews"
+                    },
+                    {
+                        "confidence": 0.42,
+                        "word": "turnout"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "among"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "people"
+                    },
+                    {
+                        "confidence": 0.88,
+                        "word": "of"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "color"
+                    },
+                    {
+                        "confidence": 0.96,
+                        "word": "is"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "nominate"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.81,
+                        "word": "guy"
+                    },
+                    {
+                        "confidence": 0.82,
+                        "word": "who"
+                    },
+                    {
+                        "confidence": 0.85,
+                        "word": "presided"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "over"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "stop"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "and"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "frisk"
+                    },
+                    {
+                        "confidence": 0.81,
+                        "word": "in"
+                    },
+                    {
+                        "confidence": 0.95,
+                        "word": "New"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "York"
+                    },
+                    {
+                        "confidence": 0.25,
+                        "word": "then"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "we"
+                    },
+                    {
+                        "confidence": 0.82,
+                        "word": "talk"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "about"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "resistance"
+                    },
+                    {
+                        "confidence": 0.87,
+                        "word": "inside"
+                    },
+                    {
+                        "confidence": 0.88,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.64,
+                        "word": "trump"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "White"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "House"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "you"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "can"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "see"
+                    },
+                    {
+                        "confidence": 0.79,
+                        "word": "that"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "there"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "are"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "really"
+                    },
+                    {
+                        "confidence": 0.96,
+                        "word": "good"
+                    }
+                ]
+            }]
+        },
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "the arctic competent people who have tried to keep the functioning of American power someone on track and finally a recommendation if I can't convince my colleagues to become ",
+                "timestamps": [
+                    {
+                        "startTime": 38.54,
+                        "endTime": 38.61,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 38.61,
+                        "endTime": 39.03,
+                        "word": "arctic"
+                    },
+                    {
+                        "startTime": 39.03,
+                        "endTime": 39.59,
+                        "word": "competent"
+                    },
+                    {
+                        "startTime": 39.59,
+                        "endTime": 40.05,
+                        "word": "people"
+                    },
+                    {
+                        "startTime": 40.05,
+                        "endTime": 40.35,
+                        "word": "who"
+                    },
+                    {
+                        "startTime": 40.35,
+                        "endTime": 40.82,
+                        "word": "have"
+                    },
+                    {
+                        "startTime": 41.5,
+                        "endTime": 42.09,
+                        "word": "tried"
+                    },
+                    {
+                        "startTime": 42.09,
+                        "endTime": 42.91,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 43.38,
+                        "endTime": 43.68,
+                        "word": "keep"
+                    },
+                    {
+                        "startTime": 43.68,
+                        "endTime": 43.8,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 43.8,
+                        "endTime": 44.23,
+                        "word": "functioning"
+                    },
+                    {
+                        "startTime": 44.23,
+                        "endTime": 44.3,
+                        "word": "of"
+                    },
+                    {
+                        "startTime": 44.3,
+                        "endTime": 44.72,
+                        "word": "American"
+                    },
+                    {
+                        "startTime": 44.72,
+                        "endTime": 45.39,
+                        "word": "power"
+                    },
+                    {
+                        "startTime": 45.42,
+                        "endTime": 45.99,
+                        "word": "someone"
+                    },
+                    {
+                        "startTime": 46.02,
+                        "endTime": 46.18,
+                        "word": "on"
+                    },
+                    {
+                        "startTime": 46.18,
+                        "endTime": 46.72,
+                        "word": "track"
+                    },
+                    {
+                        "startTime": 46.93,
+                        "endTime": 47.13,
+                        "word": "and"
+                    },
+                    {
+                        "startTime": 47.13,
+                        "endTime": 47.71,
+                        "word": "finally"
+                    },
+                    {
+                        "startTime": 48.27,
+                        "endTime": 48.38,
+                        "word": "a"
+                    },
+                    {
+                        "startTime": 48.38,
+                        "endTime": 49.09,
+                        "word": "recommendation"
+                    },
+                    {
+                        "startTime": 49.48,
+                        "endTime": 49.62,
+                        "word": "if"
+                    },
+                    {
+                        "startTime": 49.62,
+                        "endTime": 49.69,
+                        "word": "I"
+                    },
+                    {
+                        "startTime": 49.69,
+                        "endTime": 50.02,
+                        "word": "can't"
+                    },
+                    {
+                        "startTime": 50.02,
+                        "endTime": 50.47,
+                        "word": "convince"
+                    },
+                    {
+                        "startTime": 50.47,
+                        "endTime": 50.65,
+                        "word": "my"
+                    },
+                    {
+                        "startTime": 50.65,
+                        "endTime": 51.17,
+                        "word": "colleagues"
+                    },
+                    {
+                        "startTime": 51.17,
+                        "endTime": 51.33,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 51.33,
+                        "endTime": 51.82,
+                        "word": "become"
+                    }
+                ],
+                "confidence": 0.89,
+                "wordConfidence": [
+                    {
+                        "confidence": 0.29,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.15,
+                        "word": "arctic"
+                    },
+                    {
+                        "confidence": 0.93,
+                        "word": "competent"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "people"
+                    },
+                    {
+                        "confidence": 0.84,
+                        "word": "who"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "have"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "tried"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "keep"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "functioning"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "of"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "American"
+                    },
+                    {
+                        "confidence": 0.96,
+                        "word": "power"
+                    },
+                    {
+                        "confidence": 0.61,
+                        "word": "someone"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "on"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "track"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "and"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "finally"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "a"
+                    },
+                    {
+                        "confidence": 0.81,
+                        "word": "recommendation"
+                    },
+                    {
+                        "confidence": 0.34,
+                        "word": "if"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "I"
+                    },
+                    {
+                        "confidence": 0.71,
+                        "word": "can't"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "convince"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "my"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "colleagues"
+                    },
+                    {
+                        "confidence": 0.89,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 0.88,
+                        "word": "become"
+                    }
+                ]
+            }]
+        },
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "full tilt boogie Roman Catholics maybe I can convince them to believe in ghosts ",
+                "timestamps": [
+                    {
+                        "startTime": 52.63,
+                        "endTime": 52.88,
+                        "word": "full"
+                    },
+                    {
+                        "startTime": 52.88,
+                        "endTime": 53.23,
+                        "word": "tilt"
+                    },
+                    {
+                        "startTime": 53.3,
+                        "endTime": 53.84,
+                        "word": "boogie"
+                    },
+                    {
+                        "startTime": 54.07,
+                        "endTime": 54.4,
+                        "word": "Roman"
+                    },
+                    {
+                        "startTime": 54.4,
+                        "endTime": 55.14,
+                        "word": "Catholics"
+                    },
+                    {
+                        "startTime": 55.17,
+                        "endTime": 55.48,
+                        "word": "maybe"
+                    },
+                    {
+                        "startTime": 55.48,
+                        "endTime": 55.55,
+                        "word": "I"
+                    },
+                    {
+                        "startTime": 55.55,
+                        "endTime": 55.72,
+                        "word": "can"
+                    },
+                    {
+                        "startTime": 55.72,
+                        "endTime": 56.13,
+                        "word": "convince"
+                    },
+                    {
+                        "startTime": 56.13,
+                        "endTime": 56.28,
+                        "word": "them"
+                    },
+                    {
+                        "startTime": 56.28,
+                        "endTime": 56.43,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 56.43,
+                        "endTime": 56.76,
+                        "word": "believe"
+                    },
+                    {
+                        "startTime": 56.76,
+                        "endTime": 56.96,
+                        "word": "in"
+                    },
+                    {
+                        "startTime": 57.07,
+                        "endTime": 57.76,
+                        "word": "ghosts"
+                    }
+                ],
+                "confidence": 0.94,
+                "wordConfidence": [
+                    {
+                        "confidence": 1,
+                        "word": "full"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "tilt"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "boogie"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Roman"
+                    },
+                    {
+                        "confidence": 0.97,
+                        "word": "Catholics"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "maybe"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "I"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "can"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "convince"
+                    },
+                    {
+                        "confidence": 0.6,
+                        "word": "them"
+                    },
+                    {
+                        "confidence": 0.77,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "believe"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "in"
+                    },
+                    {
+                        "confidence": 0.78,
+                        "word": "ghosts"
+                    }
+                ]
+            }]
+        },
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "Michael Bloomberg the billionaire former mayor of New York has signaled that he will in fact run for president devol Patrick may also be a late entry into the race he's a former governor of Massachusetts with ties to the Obama administration it's a sign of just how anxious some Democrats are about the fields three front runners Joe Biden Bernie Sanders and Elizabeth Warren ",
+                "timestamps": [
+                    {
+                        "startTime": 60.48,
+                        "endTime": 60.8,
+                        "word": "Michael"
+                    },
+                    {
+                        "startTime": 60.8,
+                        "endTime": 61.28,
+                        "word": "Bloomberg"
+                    },
+                    {
+                        "startTime": 61.28,
+                        "endTime": 61.38,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 61.38,
+                        "endTime": 61.94,
+                        "word": "billionaire"
+                    },
+                    {
+                        "startTime": 61.94,
+                        "endTime": 62.31,
+                        "word": "former"
+                    },
+                    {
+                        "startTime": 62.31,
+                        "endTime": 62.65,
+                        "word": "mayor"
+                    },
+                    {
+                        "startTime": 62.65,
+                        "endTime": 62.84,
+                        "word": "of"
+                    },
+                    {
+                        "startTime": 62.84,
+                        "endTime": 63.01,
+                        "word": "New"
+                    },
+                    {
+                        "startTime": 63.01,
+                        "endTime": 63.41,
+                        "word": "York"
+                    },
+                    {
+                        "startTime": 63.41,
+                        "endTime": 63.6,
+                        "word": "has"
+                    },
+                    {
+                        "startTime": 63.6,
+                        "endTime": 64.01,
+                        "word": "signaled"
+                    },
+                    {
+                        "startTime": 64.01,
+                        "endTime": 64.11,
+                        "word": "that"
+                    },
+                    {
+                        "startTime": 64.11,
+                        "endTime": 64.31,
+                        "word": "he"
+                    },
+                    {
+                        "startTime": 64.31,
+                        "endTime": 64.55,
+                        "word": "will"
+                    },
+                    {
+                        "startTime": 64.55,
+                        "endTime": 64.64,
+                        "word": "in"
+                    },
+                    {
+                        "startTime": 64.64,
+                        "endTime": 64.99,
+                        "word": "fact"
+                    },
+                    {
+                        "startTime": 64.99,
+                        "endTime": 65.15,
+                        "word": "run"
+                    },
+                    {
+                        "startTime": 65.15,
+                        "endTime": 65.3,
+                        "word": "for"
+                    },
+                    {
+                        "startTime": 65.3,
+                        "endTime": 65.8,
+                        "word": "president"
+                    },
+                    {
+                        "startTime": 66.41,
+                        "endTime": 66.7,
+                        "word": "devol"
+                    },
+                    {
+                        "startTime": 66.7,
+                        "endTime": 67.27,
+                        "word": "Patrick"
+                    },
+                    {
+                        "startTime": 67.27,
+                        "endTime": 67.47,
+                        "word": "may"
+                    },
+                    {
+                        "startTime": 67.5,
+                        "endTime": 67.89,
+                        "word": "also"
+                    },
+                    {
+                        "startTime": 67.89,
+                        "endTime": 68.05,
+                        "word": "be"
+                    },
+                    {
+                        "startTime": 68.05,
+                        "endTime": 68.12,
+                        "word": "a"
+                    },
+                    {
+                        "startTime": 68.12,
+                        "endTime": 68.35,
+                        "word": "late"
+                    },
+                    {
+                        "startTime": 68.35,
+                        "endTime": 68.68,
+                        "word": "entry"
+                    },
+                    {
+                        "startTime": 68.68,
+                        "endTime": 68.92,
+                        "word": "into"
+                    },
+                    {
+                        "startTime": 68.92,
+                        "endTime": 69.02,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 69.02,
+                        "endTime": 69.42,
+                        "word": "race"
+                    },
+                    {
+                        "startTime": 69.7,
+                        "endTime": 70.09,
+                        "word": "he's"
+                    },
+                    {
+                        "startTime": 70.09,
+                        "endTime": 70.16,
+                        "word": "a"
+                    },
+                    {
+                        "startTime": 70.16,
+                        "endTime": 70.46,
+                        "word": "former"
+                    },
+                    {
+                        "startTime": 70.46,
+                        "endTime": 70.86,
+                        "word": "governor"
+                    },
+                    {
+                        "startTime": 70.86,
+                        "endTime": 70.95,
+                        "word": "of"
+                    },
+                    {
+                        "startTime": 70.95,
+                        "endTime": 71.83,
+                        "word": "Massachusetts"
+                    },
+                    {
+                        "startTime": 71.83,
+                        "endTime": 71.99,
+                        "word": "with"
+                    },
+                    {
+                        "startTime": 71.99,
+                        "endTime": 72.37,
+                        "word": "ties"
+                    },
+                    {
+                        "startTime": 72.37,
+                        "endTime": 72.47,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 72.47,
+                        "endTime": 72.57,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 72.57,
+                        "endTime": 72.99,
+                        "word": "Obama"
+                    },
+                    {
+                        "startTime": 72.99,
+                        "endTime": 73.82,
+                        "word": "administration"
+                    },
+                    {
+                        "startTime": 74.5,
+                        "endTime": 74.67,
+                        "word": "it's"
+                    },
+                    {
+                        "startTime": 74.67,
+                        "endTime": 74.75,
+                        "word": "a"
+                    },
+                    {
+                        "startTime": 74.75,
+                        "endTime": 75.09,
+                        "word": "sign"
+                    },
+                    {
+                        "startTime": 75.09,
+                        "endTime": 75.2,
+                        "word": "of"
+                    },
+                    {
+                        "startTime": 75.2,
+                        "endTime": 75.52,
+                        "word": "just"
+                    },
+                    {
+                        "startTime": 75.52,
+                        "endTime": 75.67,
+                        "word": "how"
+                    },
+                    {
+                        "startTime": 75.67,
+                        "endTime": 76.19,
+                        "word": "anxious"
+                    },
+                    {
+                        "startTime": 76.19,
+                        "endTime": 76.49,
+                        "word": "some"
+                    },
+                    {
+                        "startTime": 76.49,
+                        "endTime": 77.17,
+                        "word": "Democrats"
+                    },
+                    {
+                        "startTime": 77.17,
+                        "endTime": 77.47,
+                        "word": "are"
+                    },
+                    {
+                        "startTime": 77.47,
+                        "endTime": 77.84,
+                        "word": "about"
+                    },
+                    {
+                        "startTime": 77.84,
+                        "endTime": 77.93,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 77.93,
+                        "endTime": 78.34,
+                        "word": "fields"
+                    },
+                    {
+                        "startTime": 78.34,
+                        "endTime": 78.66,
+                        "word": "three"
+                    },
+                    {
+                        "startTime": 78.66,
+                        "endTime": 79.04,
+                        "word": "front"
+                    },
+                    {
+                        "startTime": 79.04,
+                        "endTime": 79.55,
+                        "word": "runners"
+                    },
+                    {
+                        "startTime": 79.77,
+                        "endTime": 79.99,
+                        "word": "Joe"
+                    },
+                    {
+                        "startTime": 79.99,
+                        "endTime": 80.6,
+                        "word": "Biden"
+                    },
+                    {
+                        "startTime": 80.74,
+                        "endTime": 81.05,
+                        "word": "Bernie"
+                    },
+                    {
+                        "startTime": 81.05,
+                        "endTime": 81.69,
+                        "word": "Sanders"
+                    },
+                    {
+                        "startTime": 81.72,
+                        "endTime": 81.86,
+                        "word": "and"
+                    },
+                    {
+                        "startTime": 81.86,
+                        "endTime": 82.34,
+                        "word": "Elizabeth"
+                    },
+                    {
+                        "startTime": 82.34,
+                        "endTime": 82.68,
+                        "word": "Warren"
+                    }
+                ],
+                "confidence": 0.95,
+                "wordConfidence": [
+                    {
+                        "confidence": 1,
+                        "word": "Michael"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "Bloomberg"
+                    },
+                    {
+                        "confidence": 0.85,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "billionaire"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "former"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "mayor"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "of"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "New"
+                    },
+                    {
+                        "confidence": 0.95,
+                        "word": "York"
+                    },
+                    {
+                        "confidence": 0.92,
+                        "word": "has"
+                    },
+                    {
+                        "confidence": 0.82,
+                        "word": "signaled"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "that"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "he"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "will"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "in"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "fact"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "run"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "for"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "president"
+                    },
+                    {
+                        "confidence": 0.34,
+                        "word": "devol"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "Patrick"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "may"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "also"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "be"
+                    },
+                    {
+                        "confidence": 0.84,
+                        "word": "a"
+                    },
+                    {
+                        "confidence": 0.59,
+                        "word": "late"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "entry"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "into"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "race"
+                    },
+                    {
+                        "confidence": 0.82,
+                        "word": "he's"
+                    },
+                    {
+                        "confidence": 0.85,
+                        "word": "a"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "former"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "governor"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "of"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Massachusetts"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "with"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "ties"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Obama"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "administration"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "it's"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "a"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "sign"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "of"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "just"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "how"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "anxious"
+                    },
+                    {
+                        "confidence": 0.9,
+                        "word": "some"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Democrats"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "are"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "about"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.59,
+                        "word": "fields"
+                    },
+                    {
+                        "confidence": 0.92,
+                        "word": "three"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "front"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "runners"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Joe"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "Biden"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Bernie"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "Sanders"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "and"
+                    },
+                    {
+                        "confidence": 0.93,
+                        "word": "Elizabeth"
+                    },
+                    {
+                        "confidence": 0.24,
+                        "word": "Warren"
+                    }
+                ]
+            }]
+        },
+        {
+            "XFinal": true,
+            "alternatives": [{
+                "transcript": "could Bloomberg and Patrick shake up the race I want to lay out the scenario for how they could do so but first let's talk about the reasons that all three of us are somewhat skeptical about both Bloomberg and Patrick Michelle what do you think ",
+                "timestamps": [
+                    {
+                        "startTime": 83.49,
+                        "endTime": 83.72,
+                        "word": "could"
+                    },
+                    {
+                        "startTime": 83.72,
+                        "endTime": 84.2,
+                        "word": "Bloomberg"
+                    },
+                    {
+                        "startTime": 84.2,
+                        "endTime": 84.31,
+                        "word": "and"
+                    },
+                    {
+                        "startTime": 84.31,
+                        "endTime": 84.74,
+                        "word": "Patrick"
+                    },
+                    {
+                        "startTime": 84.74,
+                        "endTime": 85.05,
+                        "word": "shake"
+                    },
+                    {
+                        "startTime": 85.05,
+                        "endTime": 85.22,
+                        "word": "up"
+                    },
+                    {
+                        "startTime": 85.22,
+                        "endTime": 85.33,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 85.33,
+                        "endTime": 85.79,
+                        "word": "race"
+                    },
+                    {
+                        "startTime": 86.35,
+                        "endTime": 86.45,
+                        "word": "I"
+                    },
+                    {
+                        "startTime": 86.45,
+                        "endTime": 86.6,
+                        "word": "want"
+                    },
+                    {
+                        "startTime": 86.6,
+                        "endTime": 86.66,
+                        "word": "to"
+                    },
+                    {
+                        "startTime": 86.66,
+                        "endTime": 86.81,
+                        "word": "lay"
+                    },
+                    {
+                        "startTime": 86.81,
+                        "endTime": 86.93,
+                        "word": "out"
+                    },
+                    {
+                        "startTime": 86.93,
+                        "endTime": 87.01,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 87.01,
+                        "endTime": 87.44,
+                        "word": "scenario"
+                    },
+                    {
+                        "startTime": 87.44,
+                        "endTime": 87.66,
+                        "word": "for"
+                    },
+                    {
+                        "startTime": 87.66,
+                        "endTime": 87.84,
+                        "word": "how"
+                    },
+                    {
+                        "startTime": 87.84,
+                        "endTime": 88,
+                        "word": "they"
+                    },
+                    {
+                        "startTime": 88,
+                        "endTime": 88.19,
+                        "word": "could"
+                    },
+                    {
+                        "startTime": 88.19,
+                        "endTime": 88.35,
+                        "word": "do"
+                    },
+                    {
+                        "startTime": 88.35,
+                        "endTime": 88.72,
+                        "word": "so"
+                    },
+                    {
+                        "startTime": 89.03,
+                        "endTime": 89.26,
+                        "word": "but"
+                    },
+                    {
+                        "startTime": 89.26,
+                        "endTime": 89.64,
+                        "word": "first"
+                    },
+                    {
+                        "startTime": 89.64,
+                        "endTime": 89.83,
+                        "word": "let's"
+                    },
+                    {
+                        "startTime": 89.83,
+                        "endTime": 90.1,
+                        "word": "talk"
+                    },
+                    {
+                        "startTime": 90.1,
+                        "endTime": 90.34,
+                        "word": "about"
+                    },
+                    {
+                        "startTime": 90.34,
+                        "endTime": 90.44,
+                        "word": "the"
+                    },
+                    {
+                        "startTime": 90.44,
+                        "endTime": 90.78,
+                        "word": "reasons"
+                    },
+                    {
+                        "startTime": 90.78,
+                        "endTime": 90.9,
+                        "word": "that"
+                    },
+                    {
+                        "startTime": 90.9,
+                        "endTime": 91.07,
+                        "word": "all"
+                    },
+                    {
+                        "startTime": 91.07,
+                        "endTime": 91.34,
+                        "word": "three"
+                    },
+                    {
+                        "startTime": 91.34,
+                        "endTime": 91.43,
+                        "word": "of"
+                    },
+                    {
+                        "startTime": 91.43,
+                        "endTime": 91.58,
+                        "word": "us"
+                    },
+                    {
+                        "startTime": 91.58,
+                        "endTime": 91.68,
+                        "word": "are"
+                    },
+                    {
+                        "startTime": 91.68,
+                        "endTime": 92.04,
+                        "word": "somewhat"
+                    },
+                    {
+                        "startTime": 92.04,
+                        "endTime": 92.7,
+                        "word": "skeptical"
+                    },
+                    {
+                        "startTime": 92.7,
+                        "endTime": 93,
+                        "word": "about"
+                    },
+                    {
+                        "startTime": 93,
+                        "endTime": 93.28,
+                        "word": "both"
+                    },
+                    {
+                        "startTime": 93.28,
+                        "endTime": 93.85,
+                        "word": "Bloomberg"
+                    },
+                    {
+                        "startTime": 93.89,
+                        "endTime": 94.46,
+                        "word": "and"
+                    },
+                    {
+                        "startTime": 94.49,
+                        "endTime": 95.24,
+                        "word": "Patrick"
+                    },
+                    {
+                        "startTime": 95.57,
+                        "endTime": 95.92,
+                        "word": "Michelle"
+                    },
+                    {
+                        "startTime": 95.92,
+                        "endTime": 96.03,
+                        "word": "what"
+                    },
+                    {
+                        "startTime": 96.03,
+                        "endTime": 96.09,
+                        "word": "do"
+                    },
+                    {
+                        "startTime": 96.09,
+                        "endTime": 96.19,
+                        "word": "you"
+                    },
+                    {
+                        "startTime": 96.19,
+                        "endTime": 96.61,
+                        "word": "think"
+                    }
+                ],
+                "confidence": 0.95,
+                "wordConfidence": [
+                    {
+                        "confidence": 0.96,
+                        "word": "could"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Bloomberg"
+                    },
+                    {
+                        "confidence": 0.67,
+                        "word": "and"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "Patrick"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "shake"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "up"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "race"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "I"
+                    },
+                    {
+                        "confidence": 0.5,
+                        "word": "want"
+                    },
+                    {
+                        "confidence": 0.48,
+                        "word": "to"
+                    },
+                    {
+                        "confidence": 0.8,
+                        "word": "lay"
+                    },
+                    {
+                        "confidence": 0.76,
+                        "word": "out"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "scenario"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "for"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "how"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "they"
+                    },
+                    {
+                        "confidence": 0.68,
+                        "word": "could"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "do"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "so"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "but"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "first"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "let's"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "talk"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "about"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "the"
+                    },
+                    {
+                        "confidence": 0.83,
+                        "word": "reasons"
+                    },
+                    {
+                        "confidence": 0.45,
+                        "word": "that"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "all"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "three"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "of"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "us"
+                    },
+                    {
+                        "confidence": 0.68,
+                        "word": "are"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "somewhat"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "skeptical"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "about"
+                    },
+                    {
+                        "confidence": 0.97,
+                        "word": "both"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "Bloomberg"
+                    },
+                    {
+                        "confidence": 0.99,
+                        "word": "and"
+                    },
+                    {
+                        "confidence": 0.98,
+                        "word": "Patrick"
+                    },
+                    {
+                        "confidence": 0.55,
+                        "word": "Michelle"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "what"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "do"
+                    },
+                    {
+                        "confidence": 1,
+                        "word": "you"
+                    },
+                    {
+                        "confidence": 0.97,
+                        "word": "think"
+                    }
+                ]
+            }]
+        }
+    ]
+}
